@@ -52,3 +52,16 @@ int main() {
     
     return 0;
 }
+
+/* ANOTHER METHOD 
+int greatest = a;
+
+if (b > greatest) {
+    greatest = b;
+}
+if (c > greatest) {
+    greatest = c;
+}
+if (d > greatest) {
+    greatest = d;
+} */
